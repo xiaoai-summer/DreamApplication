@@ -1,0 +1,5 @@
+include ':mylib'
+include ':mylibrary'
+include ':myapplication'
+include ':app'
+rootProject.name = "DreamApplication"
